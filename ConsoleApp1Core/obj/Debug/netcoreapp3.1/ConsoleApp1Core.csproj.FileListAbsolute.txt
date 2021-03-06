@@ -1,0 +1,13 @@
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.exe
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.deps.json
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.runtimeconfig.json
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.runtimeconfig.dev.json
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.dll
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\bin\Debug\netcoreapp3.1\ConsoleApp1Core.pdb
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.csprojAssemblyReference.cache
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.AssemblyInfoInputs.cache
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.AssemblyInfo.cs
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.csproj.CoreCompileInputs.cache
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.dll
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.pdb
+C:\Users\mattg\source\repos\ConsoleApp1Core\ConsoleApp1Core\obj\Debug\netcoreapp3.1\ConsoleApp1Core.genruntimeconfig.cache
