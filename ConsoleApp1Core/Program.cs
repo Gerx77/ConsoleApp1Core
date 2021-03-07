@@ -9,6 +9,10 @@ namespace ConsoleApp1Core
             Console.WriteLine("Hello Matt!");
 
             //Console.ReadLine();
+            String.Concat("123");
         }
+
+
+
     }
 }
